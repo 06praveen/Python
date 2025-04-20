@@ -1,5 +1,5 @@
 
-# Author : Manav
+# Author : Praveen
 # Task : Passowrd Manager
 
 import random
